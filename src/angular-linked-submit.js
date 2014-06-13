@@ -8,6 +8,4 @@ angular.module('angularLinkedSubmit',[])
             document.getElementById(id).click();
         });
     };
-}
 });
-
