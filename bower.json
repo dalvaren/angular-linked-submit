@@ -1,0 +1,7 @@
+{
+    "name": "Angular Submit Linked Element",
+    "version": "1.0.0",
+    "author" : "Daniel Campos",
+    "description": "AngularJS directive to automatically link an element to any form submit button (even elements outside the form)",
+    "dependencies": {}
+}
